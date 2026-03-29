@@ -1,33 +1,38 @@
-# Aviation Passenger Demand Analysis
+# ✈️ Aviation Passenger Demand Analysis
 
-## Project Overview
-This project analyzes passenger demand patterns in aviation using historical data and visual dashboards.
+## 📊 Project Overview
+This project analyzes passenger demand patterns in aviation using real-world inspired data to support operational and strategic decision-making.
 
-## Objectives
-- Identify seasonal trends
-- Analyze passenger demand evolution
-- Detect peak periods
+## 🎯 Objectives
+- Identify seasonal demand trends
+- Detect peak travel periods
+- Analyze relationship between demand and delays
 
-## Tools Used
-- Power BI
-- Python
-- Pandas
+## 🛠 Tools & Technologies
+- Power BI (Dashboard)
+- Python (Pandas)
+- Data Analysis
 
-## Dataset
-Includes:
-- Date
-- Airport
-- Flights
-- Passengers
+## 📂 Dataset
+The dataset includes:
+- Flight frequency
+- Passenger volume
 - Delays
+- Airport (AGP - Málaga)
 
-## Dashboard Preview
+## 📈 Key Insights
+- Passenger demand increases significantly during summer months
+- Delays correlate with high traffic periods
+- Strong seasonal patterns detected
+
+## 🖼 Dashboard Preview
 ![Dashboard](images/dashboard.png)
 
-## Key Insights
-- Passenger demand peaks during summer months
-- Higher delays during high demand periods
-- Strong seasonal patterns
+## 🚀 Business Value
+This analysis can support:
+- Capacity planning
+- Resource allocation
+- Delay reduction strategies
 
-## Author
-Manuela Bonvie
+## 👩‍💻 Author
+**Manuela Bonvie – Data Analyst & Decision Intelligence**
